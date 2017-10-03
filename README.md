@@ -21,11 +21,11 @@ A JavaScript Package For Converting Positive Value To negative. Also works when 
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/to-negative-array/master/negative.js"></script>
 ```
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/to-negative-array/7d9e5e1c/negative.js"></script>
 ```
 
 ## Usage
