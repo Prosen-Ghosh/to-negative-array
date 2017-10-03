@@ -1,6 +1,6 @@
 {
   "name": "to-negative-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript Package For Converting Positive Value To negative. Also works when non-numbers are present as well.",
   "main": "negative.js",
   "directories": {
@@ -19,7 +19,8 @@
     "array",
     "element",
     "convert",
-    "minus"
+    "minus",
+    "list"
   ],
   "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
   "license": "MIT",

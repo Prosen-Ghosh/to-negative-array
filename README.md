@@ -11,7 +11,6 @@ A JavaScript Package For Converting Positive Value To negative. Also works when 
 
 ## Features
 
-
 ## `npm` Install
 
 `npm install --save to-negative-array`
