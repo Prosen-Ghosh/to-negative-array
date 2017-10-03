@@ -2,10 +2,6 @@
 A JavaScript Package For Converting Positive Value To negative. Also works when non-numbers are present as well.
 
 ![npm](https://img.shields.io/npm/v/to-negative-array.svg) ![license](https://img.shields.io/npm/l/to-negative-array.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/to-negative-array.svg) 
-
-![nodei.co](https://nodei.co/npm/to-negative-array.png?downloads=true&downloadRank=true&stars=true)
-
-![travis-status](https://img.shields.io/travis/Prosen-Ghosh/to-negative-array.svg)
 ![stars](https://img.shields.io/github/stars/Prosen-Ghosh/to-negative-array.svg)
 ![forks](https://img.shields.io/github/forks/Prosen-Ghosh/to-negative-array.svg)
 
@@ -16,7 +12,7 @@ A JavaScript Package For Converting Positive Value To negative. Also works when 
 `npm install --save to-negative-array`
 
 
-## Scripts Tag
+## Script Tag
 
 #### For Development
 ```js
